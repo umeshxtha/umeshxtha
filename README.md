@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<a href="https://app.daily.dev/umeshshrestha"><img src="https://api.daily.dev/devcards/v2/hNfrz7talDplAwmheiDRf.png?type=default&r=0ie" width="356" alt="Umesh shrestha's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshxtha&label=Profile%20views&color=0e75b6&style=flat" alt="umeshxtha" /> </p>
 
